@@ -6,7 +6,7 @@
     --text-color: #000;
     --navbar-bg: #F8F9FA;
     --card-bg: #f3ecec;
-    --footer-br: #f8f9fa;
+    --footer-bg: #dfdd81fd;
    
     /*tema escuro*/
     body.dark-mode {
@@ -14,7 +14,7 @@
     --text-color: #fff;
     --navbar-bg: #1f1f1f;
     --card-bg: #1e1e1e;
-    --footer-br: #1f1f1f;
+    --footer-bg: #c737a8;
     }
 }
  
